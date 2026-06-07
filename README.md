@@ -8,7 +8,7 @@ hey — I build things for the web. clean frontends, intelligent backends, and t
 
 > based in the Philippines · expected graduation July 2027
 
-[![portfolio](YOUR_PORTFOLIO_SCREENSHOT_URL)](http://lolitoruiz.netlify.app)
+[![portfolio](<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a9abfdd2-62b0-403f-a23e-faed0b825db0" />)](http://lolitoruiz.netlify.app)
 
 ---
 
