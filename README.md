@@ -38,7 +38,7 @@ generates fully stylized comic panels from text prompts. people actually use it.
 
 → [panel-x-frontend.vercel.app](https://panel-x-frontend.vercel.app)
 
-![panelx demo](YOUR_PANELX_GIF_OR_SCREENSHOT_URL)
+![panelx demo](<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8b217d19-51be-425f-a763-30944c06dfed" />)
 
 ---
 
