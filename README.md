@@ -8,7 +8,7 @@ hey — I build things for the web. clean frontends, intelligent backends, and t
 
 > based in the Philippines · expected graduation July 2027
 
-[![portfolio](<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a9abfdd2-62b0-403f-a23e-faed0b825db0" />)](http://lolitoruiz.netlify.app)
+[![portfolio](Profile.png)](http://lolitoruiz.netlify.app)
 
 ---
 
@@ -38,7 +38,7 @@ generates fully stylized comic panels from text prompts. people actually use it.
 
 → [panel-x-frontend.vercel.app](https://panel-x-frontend.vercel.app)
 
-![panelx demo](<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8b217d19-51be-425f-a763-30944c06dfed" />)
+![panelx demo](Project.png)
 
 ---
 
